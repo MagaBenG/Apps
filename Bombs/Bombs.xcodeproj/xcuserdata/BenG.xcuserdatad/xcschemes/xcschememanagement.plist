@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Bomb It Up.xcscheme</key>
+		<key>Bombs.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B678936A181422F9009C20E1</key>
+		<key>B67303AB18145B9300BB22E1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B6789395181422F9009C20E1</key>
+		<key>B67303D718145B9300BB22E1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

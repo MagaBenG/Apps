@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B678936A181422F9009C20E1"
-               BuildableName = "Bomb It Up.app"
-               BlueprintName = "Bomb It Up"
-               ReferencedContainer = "container:Bomb It Up.xcodeproj">
+               BlueprintIdentifier = "B67303AB18145B9300BB22E1"
+               BuildableName = "Bombs.app"
+               BlueprintName = "Bombs"
+               ReferencedContainer = "container:Bombs.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B6789395181422F9009C20E1"
-               BuildableName = "Bomb It UpTests.xctest"
-               BlueprintName = "Bomb It UpTests"
-               ReferencedContainer = "container:Bomb It Up.xcodeproj">
+               BlueprintIdentifier = "B67303D718145B9300BB22E1"
+               BuildableName = "BombsTests.xctest"
+               BlueprintName = "BombsTests"
+               ReferencedContainer = "container:Bombs.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B678936A181422F9009C20E1"
-            BuildableName = "Bomb It Up.app"
-            BlueprintName = "Bomb It Up"
-            ReferencedContainer = "container:Bomb It Up.xcodeproj">
+            BlueprintIdentifier = "B67303AB18145B9300BB22E1"
+            BuildableName = "Bombs.app"
+            BlueprintName = "Bombs"
+            ReferencedContainer = "container:Bombs.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B678936A181422F9009C20E1"
-            BuildableName = "Bomb It Up.app"
-            BlueprintName = "Bomb It Up"
-            ReferencedContainer = "container:Bomb It Up.xcodeproj">
+            BlueprintIdentifier = "B67303AB18145B9300BB22E1"
+            BuildableName = "Bombs.app"
+            BlueprintName = "Bombs"
+            ReferencedContainer = "container:Bombs.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B678936A181422F9009C20E1"
-            BuildableName = "Bomb It Up.app"
-            BlueprintName = "Bomb It Up"
-            ReferencedContainer = "container:Bomb It Up.xcodeproj">
+            BlueprintIdentifier = "B67303AB18145B9300BB22E1"
+            BuildableName = "Bombs.app"
+            BlueprintName = "Bombs"
+            ReferencedContainer = "container:Bombs.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

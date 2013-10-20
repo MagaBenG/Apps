@@ -1,6 +1,6 @@
 //
-//  Bomb_It_UpTests.m
-//  Bomb It UpTests
+//  BombsTests.m
+//  BombsTests
 //
 //  Created by Benjamin DosSantos on 10/20/13.
 //  Copyright (c) 2013 MagaBenG Productions. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface Bomb_It_UpTests : XCTestCase
+@interface BombsTests : XCTestCase
 
 @end
 
-@implementation Bomb_It_UpTests
+@implementation BombsTests
 
 - (void)setUp
 {

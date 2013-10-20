@@ -1,14 +1,14 @@
 //
 //  MBPViewController.h
-//  Bomb It Up
+//  Bombs
 //
-
+//  Created by Benjamin DosSantos on 10/20/13.
 //  Copyright (c) 2013 MagaBenG Productions. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
-#import <SpriteKit/SpriteKit.h>
+#import <GLKit/GLKit.h>
 
-@interface MBPViewController : UIViewController
+@interface MBPViewController : GLKViewController
 
 @end
