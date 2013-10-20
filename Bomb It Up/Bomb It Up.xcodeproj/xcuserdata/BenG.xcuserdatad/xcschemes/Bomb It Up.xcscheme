@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B6F0C9A61813635000CAAB2E"
-               BuildableName = "So Thats What Its Called.app"
-               BlueprintName = "So Thats What Its Called"
-               ReferencedContainer = "container:So Thats What Its Called.xcodeproj">
+               BlueprintIdentifier = "B678936A181422F9009C20E1"
+               BuildableName = "Bomb It Up.app"
+               BlueprintName = "Bomb It Up"
+               ReferencedContainer = "container:Bomb It Up.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B6F0C9D11813635100CAAB2E"
-               BuildableName = "So Thats What Its CalledTests.xctest"
-               BlueprintName = "So Thats What Its CalledTests"
-               ReferencedContainer = "container:So Thats What Its Called.xcodeproj">
+               BlueprintIdentifier = "B6789395181422F9009C20E1"
+               BuildableName = "Bomb It UpTests.xctest"
+               BlueprintName = "Bomb It UpTests"
+               ReferencedContainer = "container:Bomb It Up.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B6F0C9A61813635000CAAB2E"
-            BuildableName = "So Thats What Its Called.app"
-            BlueprintName = "So Thats What Its Called"
-            ReferencedContainer = "container:So Thats What Its Called.xcodeproj">
+            BlueprintIdentifier = "B678936A181422F9009C20E1"
+            BuildableName = "Bomb It Up.app"
+            BlueprintName = "Bomb It Up"
+            ReferencedContainer = "container:Bomb It Up.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B6F0C9A61813635000CAAB2E"
-            BuildableName = "So Thats What Its Called.app"
-            BlueprintName = "So Thats What Its Called"
-            ReferencedContainer = "container:So Thats What Its Called.xcodeproj">
+            BlueprintIdentifier = "B678936A181422F9009C20E1"
+            BuildableName = "Bomb It Up.app"
+            BlueprintName = "Bomb It Up"
+            ReferencedContainer = "container:Bomb It Up.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B6F0C9A61813635000CAAB2E"
-            BuildableName = "So Thats What Its Called.app"
-            BlueprintName = "So Thats What Its Called"
-            ReferencedContainer = "container:So Thats What Its Called.xcodeproj">
+            BlueprintIdentifier = "B678936A181422F9009C20E1"
+            BuildableName = "Bomb It Up.app"
+            BlueprintName = "Bomb It Up"
+            ReferencedContainer = "container:Bomb It Up.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

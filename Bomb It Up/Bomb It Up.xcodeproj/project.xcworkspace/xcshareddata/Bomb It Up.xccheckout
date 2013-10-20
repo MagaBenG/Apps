@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6CE38BE5-5F42-41D9-AF1E-95BDAD246F0F</string>
+	<string>CB8B58A8-F958-4722-AA3C-4A36598A57D5</string>
 	<key>IDESourceControlProjectName</key>
-	<string>So Thats What Its Called</string>
+	<string>Bomb It Up</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>AE29C1C4-237E-432C-B407-835F0A8068AE</key>
+		<key>BC6E0E01-B762-402D-8E52-70C6DA5043BF</key>
 		<string>https://github.com/MagaBenG/Apps.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>So Thats What Its Called/So Thats What Its Called.xcodeproj/project.xcworkspace</string>
+	<string>Bomb It Up/Bomb It Up.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>AE29C1C4-237E-432C-B407-835F0A8068AE</key>
+		<key>BC6E0E01-B762-402D-8E52-70C6DA5043BF</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AE29C1C4-237E-432C-B407-835F0A8068AE</string>
+	<string>BC6E0E01-B762-402D-8E52-70C6DA5043BF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>AE29C1C4-237E-432C-B407-835F0A8068AE</string>
+			<string>BC6E0E01-B762-402D-8E52-70C6DA5043BF</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Apps</string>
 		</dict>

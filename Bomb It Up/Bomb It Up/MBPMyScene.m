@@ -1,8 +1,8 @@
 //
 //  MBPMyScene.m
-//  So Thats What Its Called
+//  Bomb It Up
 //
-//  Created by Benjamin DosSantos on 10/19/13.
+//  Created by Benjamin DosSantos on 10/20/13.
 //  Copyright (c) 2013 MagaBenG Productions. All rights reserved.
 //
 
@@ -18,8 +18,8 @@
         
         SKLabelNode *myLabel = [SKLabelNode labelNodeWithFontNamed:@"Chalkduster"];
         
-        myLabel.text = @"So Thats What Its Called";
-        myLabel.fontSize = 20;
+        myLabel.text = @"Hello, World!";
+        myLabel.fontSize = 30;
         myLabel.position = CGPointMake(CGRectGetMidX(self.frame),
                                        CGRectGetMidY(self.frame));
         
@@ -34,7 +34,7 @@
     for (UITouch *touch in touches) {
         CGPoint location = [touch locationInNode:self];
         
-        SKSpriteNode *sprite = [SKSpriteNode spriteNodeWithImageNamed:@"Cow"];
+        SKSpriteNode *sprite = [SKSpriteNode spriteNodeWithImageNamed:@"Spaceship"];
         
         sprite.position = location;
         

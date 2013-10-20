@@ -1,18 +1,18 @@
 //
-//  So_Thats_What_Its_CalledTests.m
-//  So Thats What Its CalledTests
+//  Bomb_It_UpTests.m
+//  Bomb It UpTests
 //
-//  Created by Benjamin DosSantos on 10/19/13.
+//  Created by Benjamin DosSantos on 10/20/13.
 //  Copyright (c) 2013 MagaBenG Productions. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface So_Thats_What_Its_CalledTests : XCTestCase
+@interface Bomb_It_UpTests : XCTestCase
 
 @end
 
-@implementation So_Thats_What_Its_CalledTests
+@implementation Bomb_It_UpTests
 
 - (void)setUp
 {

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>So Thats What Its Called.xcscheme</key>
+		<key>Bomb It Up.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B6F0C9A61813635000CAAB2E</key>
+		<key>B678936A181422F9009C20E1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B6F0C9D11813635100CAAB2E</key>
+		<key>B6789395181422F9009C20E1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,6 +1,6 @@
 //
 //  MBPMyScene.h
-//  So Thats What Its Called
+//  Bomb It Up
 //
 
 //  Copyright (c) 2013 MagaBenG Productions. All rights reserved.
